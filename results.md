@@ -58,7 +58,15 @@ Use our extension to determine whether this laptop meets the same specifications
 
 ## RESULTS
 
-<img src="images/Without_Extenstion.png" alt="logo" width="250" align="left"/>
+<img src="images/Without_Extension.png" width="1000"/>
+
+Graph Without using extension
+
+<img src="images/With_Extension.png" width="1000"/>
+
+Graph using extension
+
+
 
 ## CONCLUSION
 
