@@ -66,7 +66,9 @@ Graph Without using extension
 
 Graph using extension
 
+<img src="images/Comparison.png" width="1000"/>
 
+Comparison of Average time
 
 ## CONCLUSION
 
