@@ -1,10 +1,10 @@
 # EXPERIMENT
 
 We basically devised three situations wherein the subjects had to perfom various convertions from one unit to another.
-In each experiment, the converstion has to be done once with using our extention and then without using the extentsion 
-but using suitable way one seems fit.
+In each experiment the conversion had to be done once without using our extension and then again using the extension.
 
-In every experiment then a thorough analysis on time is done. The time in each cases is noted and the following graphs are obtained
+
+Next, we did a thorough analysis of the time taken by each subject for every experiment. The time in each case was noted and the following graphs were obtained.
 
 
 ## EXPERIMENT 1
