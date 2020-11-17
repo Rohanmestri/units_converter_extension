@@ -77,4 +77,4 @@ Comparison of Average time
 ## CONCLUSION
 
 From the above experiments we conclude that in each instance, the time to convert one unit of measurement to another, was significantly reduced by using our extension versus using any
-other method. Also, each participant felt that the extention made the process significantly easy and they would prefer using it.
+other method. Also, each participant felt that the extension made the process significantly easy and they would prefer using it. Thus, our hypothesis was tested and confirmed to be true.
