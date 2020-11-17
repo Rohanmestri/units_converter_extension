@@ -9,7 +9,7 @@ Next, we did a thorough analysis of the time taken by each subject for every exp
 
 ## EXPERIMENT 1
 
-It's your Birthday coming up and you have to throw a party. Your friends are very enthusiastic about your birthday and are visiting you from California. At the same time your friends are annoyingly picky about certain things and they don’t miss any chance to trouble you. You have to throw them a party and you are searching for lit areas in the neighborhood. Now, your friends have maintained the following things:
+Your birthday is coming up and you want to throw a party. Your friends are very enthusiastic about your birthday and are visiting you from California. At the same time your friends are annoyingly picky about certain things and they don’t miss any chance to trouble you. You have to throw them a party and you are searching for suitable areas in the neighborhood. Now, your friends have maintained the following restrictions:
 They will directly travel from RDU to the party destination
 They want the party place to be as close as possible to 30 kms
 The place has to be reachable in around 1500 secs (annoyingly picky right!)
