@@ -31,7 +31,7 @@ Case 2: Using our extension
 
 ## EXPERIMENT 2
 
-You want to gift a refrigerator to your parents in India from the following page only if the price of the refrigerator is not more than 350 US dollars and the height should not be more than 5 ft as it may not fit well.
+You want to gift a refrigerator to your parents in India from the following page. The price of the refrigerator should not be more than 350 US dollars and the height should not be more than 5 ft as it may not fit well.
 
 [Refrigerator](https://www.amazon.in/dp/B08448TTJM/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B08448TTJM&pd_rd_w=felNw&pf_rd_p=1801b34c-8af9-42b5-8961-11f124edc99b&pd_rd_wg=eEyzP&pf_rd_r=6707SWB945XFP1K3ZPD6&pd_rd_r=a0592923-7de5-424b-b4ab-47d9c8e919b8&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTDhQVzQ3SVYxMTkyJmVuY3J5cHRlZElkPUEwNzg4OTMyMkxJSkgwNUkzT0Y2QyZlbmNyeXB0ZWRBZElkPUEwMTgxMjIyMVlaNVJRSTlFRkhZMCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
