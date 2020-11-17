@@ -3,7 +3,7 @@
 Our initial hypothesis is that when looking to convert units of measurement, using our chrome extension makes the conversion significantly faster than any other method that already exists. 
 
 
-
+## HYPOTHESIS TESTING
 To test our hypothesis we devised three situations wherein the subjects had to perform various conversions from one unit of measurement to another.
 In each experiment the conversion had to be done once without using our extension and then again using the extension.
 
