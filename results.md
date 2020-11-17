@@ -28,6 +28,8 @@ Case 2: Using our extension
 
 [Chapel hill](https://www.google.com/maps/dir/RDU/Chapel+Hill,+North+Carolina/@35.9058109,-78.9925546,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89acf0fa028e79cf:0xe38392d241f375ed!2m2!1d-78.7879963!2d35.880079!1m5!1m1!1s0x89acc31c216e7ea7:0x7f03bae00443e4cb!2m2!1d-79.0558445!2d35.9131996)
 
+## RESULTS - EXPERIMENT 1
+
 
 ## EXPERIMRNT 2
 
@@ -41,6 +43,7 @@ Without using our extension, determine whether this refrigerator meets your spec
 
 Use our extension to determine whether this refrigerator meets the same specifications.
 
+## RESULTS - EXPERIMENT 2
 
 ## EXPERIMRNT 3
 
@@ -55,3 +58,5 @@ Without using our extension, determine whether this laptop meets your specificat
 You have another shortlisted laptop: [ASUS chromebook](https://www.amazon.com/ASUS-Touchscreen-Fingerprint-Magnesium-Alloy-C436FA-DS388T/dp/B083ZB9YQ6/ref=redir_mobile_desktop?ie=UTF8&aaxitk=Zix50mzJ1Z3.AKw.RPkQ9g&hsa_cr_id=9822695450001&ref_=sbx_be_s_sparkle_mcd_asin_2)
 
 Use our extension to determine whether this laptop meets the same specifications.
+
+## RESULTS - EXPERIMENT 3
