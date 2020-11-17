@@ -1,5 +1,5 @@
 
-# HYPOTHESIS
+## HYPOTHESIS
 Our initial hypothesis is that when looking to convert units of measurement, using our chrome extension makes the conversion significantly faster than any other method that already exists. 
 
 
