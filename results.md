@@ -44,7 +44,7 @@ Use our extension to determine whether this refrigerator meets the same specific
 
 ## EXPERIMENT 3
 
-You want to buy a new laptop and have shortlisted one which you really like. Now, you want to check its specifications to see if it is a good fit for you. You have two desired specifications:
+You want to buy a new laptop and have shortlisted one that you like. Now, you want to check its specifications to see if it is a good fit for you. You have two desired specifications:
 Laptop weight should be less than 2 Kilograms
 Laptop screen size should be less than 36 centimetres.
 
