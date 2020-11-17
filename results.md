@@ -57,7 +57,7 @@ You have another shortlisted laptop: [ASUS chromebook](https://www.amazon.com/AS
 Use our extension to determine whether this laptop meets the same specifications.
 
 ## RESULTS
-<img src="images/logo.jpeg" alt="logo" width="250" align="right"/>
+
 
 
 ## CONCLUSION
