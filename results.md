@@ -31,7 +31,7 @@ Case 2: Using our extension
 ## RESULTS - EXPERIMENT 1
 
 
-## EXPERIMRNT 2
+## EXPERIMENT 2
 
 You want to gift a refrigerator to your parents in India from the following page only if the price of the refrigerator is not more than 350 US dollars and the height should not be more than 5 ft as it may not fit well.
 
@@ -45,7 +45,7 @@ Use our extension to determine whether this refrigerator meets the same specific
 
 ## RESULTS - EXPERIMENT 2
 
-## EXPERIMRNT 3
+## EXPERIMENT 3
 
 You want to buy a new laptop and have shortlisted one which you really like. Now, you want to check its specifications to see if it is a good fit for you. You have two desired specifications:
 Laptop weight should be less than 2 Kilograms
