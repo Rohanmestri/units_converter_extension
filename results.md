@@ -1,6 +1,6 @@
 # EXPERIMENT
 
-We basically devised three situations wherein the subjects had to perform various conversions from one unit of measurement to another.
+To test our hypothesis we devised three situations wherein the subjects had to perform various conversions from one unit of measurement to another.
 In each experiment the conversion had to be done once without using our extension and then again using the extension.
 
 
