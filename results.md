@@ -15,12 +15,17 @@ They want the party place to be as close as possible to 30 kms
 The place has to be reachable in around 1500 secs (annoyingly picky right!)
 
 You have the following four areas shortlisted. Select one best suited area in each case.
+
 Case 1: Without extension
+
 Braggtown
+
 North hills
 
 Case 2: Using our extension
+
 Clayton
+
 Chapel hill
 
 
@@ -29,9 +34,11 @@ Chapel hill
 You want to gift a refrigerator to your parents in India from the following page only if the price of the refrigerator is not more than 350 US dollars and the height should not be more than 5 ft as it may not fit well.
 
 Refrigerator
+
 Without using our extension, determine whether this refrigerator meets your specifications.
 
 Refrigerator2
+
 Use our extension to determine whether this refrigerator meets the same specifications.
 
 
@@ -42,7 +49,9 @@ Laptop weight should be less than 2 Kilograms
 Laptop screen size should be less than 36 centimetres.
 
 Your shortlisted laptop is: Lenovo yoga
+
 Without using our extension, determine whether this laptop meets your specifications.
 
 You have another shortlisted laptop: ASUS chromebook
+
 Use our extension to determine whether this laptop meets the same specifications.
