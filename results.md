@@ -7,7 +7,7 @@ but using suitable way one seems fit.
 In every experiment then a thorough analysis on time is done. The time in each cases is noted and the following graphs are obtained
 
 
-## EXPERIMRNT 1
+## EXPERIMENT 1
 
 It's your Birthday coming up and you have to throw a party. Your friends are very enthusiastic about your birthday and are visiting you from California. At the same time your friends are annoyingly picky about certain things and they don’t miss any chance to trouble you. You have to throw them a party and you are searching for lit areas in the neighborhood. Now, your friends have maintained the following things:
 They will directly travel from RDU to the party destination
@@ -28,8 +28,6 @@ Case 2: Using our extension
 
 [Chapel hill](https://www.google.com/maps/dir/RDU/Chapel+Hill,+North+Carolina/@35.9058109,-78.9925546,12z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89acf0fa028e79cf:0xe38392d241f375ed!2m2!1d-78.7879963!2d35.880079!1m5!1m1!1s0x89acc31c216e7ea7:0x7f03bae00443e4cb!2m2!1d-79.0558445!2d35.9131996)
 
-## RESULTS - EXPERIMENT 1
-
 
 ## EXPERIMENT 2
 
@@ -43,7 +41,6 @@ Without using our extension, determine whether this refrigerator meets your spec
 
 Use our extension to determine whether this refrigerator meets the same specifications.
 
-## RESULTS - EXPERIMENT 2
 
 ## EXPERIMENT 3
 
@@ -59,4 +56,11 @@ You have another shortlisted laptop: [ASUS chromebook](https://www.amazon.com/AS
 
 Use our extension to determine whether this laptop meets the same specifications.
 
-## RESULTS - EXPERIMENT 3
+## RESULTS
+
+
+
+## CONCLUSION
+
+From each of above experiments we conclude that in each instance, the time to convert one unit to another was significantly less while using extention versus using any
+other method. Also, each participant felt that the extention made the process significantly easy and they would prefer using it.
