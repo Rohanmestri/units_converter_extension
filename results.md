@@ -77,4 +77,11 @@ Comparison of Average time
 ## CONCLUSION
 
 From the above experiments we conclude that in each instance, the time to convert one unit of measurement to another, was significantly reduced by using our extension versus using any
-other method. Also, each participant felt that the extension made the process significantly easy and they would prefer using it. Thus, our hypothesis was tested and confirmed to be true.
+other method. Also, each participant felt that the extension made the process significantly easy and they would prefer using it.The extension was easy-to-install and no tests subject had any difficulty in setup of the extension. Thus, it proves our plug and play capabilities. Conclusively, we can say that our hypothesis was tested and confirmed to be true.
+
+## THREATS TO VALIDITY
+
+1. Only a fraction of units were tested for the purpose of this experiment.
+2. Test Subjects who used Voice Assistants had a better timing as compared to people who relied on Google. Thus, our non-extension data is highly varying.
+3. The sample of test subjects consisted of people who have highly technical skills. The user friendliness may not extend well to the general user who might find it a bit difficult to install.
+ 
