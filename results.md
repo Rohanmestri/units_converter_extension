@@ -65,6 +65,8 @@ Graph Without using extension
 
 <img src="images/Without_Extension.png" width="1000"/>
 
+We have the subject's serial number on the x-axis and the stopwatch measure of time on the y-axis.  
+
 Graph using extension
 
 <img src="images/With_Extension.png" width="1000"/>
