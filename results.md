@@ -65,8 +65,8 @@ Graph Without using extension
 
 <img src="images/Without_Extension.png" width="1000"/>
 
-We have the subject's serial number on the x-axis and the stopwatch measure of time on the y-axis.  
-
+We have the subject's serial number on the x-axis and the stopwatch measure of time on the y-axis. Q1, Q2, and Q3 represent Experiment 1, 2, and 3 respectively. We observed the time taken by each subject to complete each of these experiments and concluded that the first and second experiment were generally more time consuming than the third.
+ 
 Graph using extension
 
 <img src="images/With_Extension.png" width="1000"/>
