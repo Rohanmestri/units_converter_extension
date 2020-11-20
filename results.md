@@ -77,6 +77,8 @@ Comparison of Average time
 
 <img src="images/Comparison.png" width="1000"/>
 
+Next, We have the subject's serial number on the x-axis and the stopwatch measure of time on the y-axis. But this time, we calculated the average time taken for each subject, both with and without using our extension. We plotted these average time measures in the same graph. We can clearly see that using our extension significantly reduced the time to perform the experiments in the case of each and every subject.
+
 
 ## CONCLUSION
 
