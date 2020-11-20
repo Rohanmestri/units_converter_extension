@@ -61,10 +61,10 @@ You have another shortlisted laptop: [ASUS chromebook](https://www.amazon.com/AS
 Use our extension to determine whether this laptop meets the same specifications.
 
 ## RESULTS
+Graph Without using extension
 
 <img src="images/Without_Extension.png" width="1000"/>
 
-Graph Without using extension
 
 <img src="images/With_Extension.png" width="1000"/>
 
