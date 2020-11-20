@@ -65,10 +65,10 @@ Graph Without using extension
 
 <img src="images/Without_Extension.png" width="1000"/>
 
+Graph using extension
 
 <img src="images/With_Extension.png" width="1000"/>
 
-Graph using extension
 
 <img src="images/Comparison.png" width="1000"/>
 
