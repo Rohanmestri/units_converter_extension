@@ -69,10 +69,10 @@ Graph using extension
 
 <img src="images/With_Extension.png" width="1000"/>
 
+Comparison of Average time
 
 <img src="images/Comparison.png" width="1000"/>
 
-Comparison of Average time
 
 ## CONCLUSION
 
