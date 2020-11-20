@@ -88,6 +88,6 @@ other method. Also, each participant felt that the extension made the process si
 ## THREATS TO VALIDITY
 
 1. Only a fraction of units were tested for the purpose of this experiment.
-2. Test Subjects who used Voice Assistants had a better timing as compared to people who relied on Google. Thus, our non-extension data is highly varying.
+2. Test Subjects who used Voice Assistants had a better timing as compared to people who searched on the web. Thus, our non-extension results have a lot of variation.
 3. The sample of test subjects consisted of people who have highly technical skills. The user friendliness may not extend well to the general user who might find it a bit difficult to install.
  
